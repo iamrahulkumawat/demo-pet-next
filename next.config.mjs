@@ -3,7 +3,6 @@ const nextConfig = {
   // Prefer loading of ES Modules over CommonJS
   experimental: { esmExternals: true },
   reactStrictMode: false,
-  output: 'export',
 };
 
 export default nextConfig;
